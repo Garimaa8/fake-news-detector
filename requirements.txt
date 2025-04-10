@@ -1,1 +1,10 @@
 streamlit
+joblib
+pandas
+numpy
+scikit-learn
+fpdf
+qrcode
+requests
+plotly
+streamlit-extras
